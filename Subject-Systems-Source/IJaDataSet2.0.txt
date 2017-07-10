@@ -1,0 +1,3 @@
+Modified version of IJaDataSe, BigCloneBench clone benchmark and BigCloneEval framework can be download from the following links.
+
+1) https://github.com/jeffsvajlenko/BigCloneEval
